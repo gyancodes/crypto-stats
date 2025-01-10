@@ -26,9 +26,9 @@ A server-side application built with Node.js and MongoDB that fetches real-time 
 
 ```bash
 
-git clone https://github.com/yourusername/cryptocurrency-data-service.git
+git clone https://github.com/yourusername/crypto-stats.git
 
-cd cryptocurrency-data-service
+cd crypto-stats
 
 ```
 
